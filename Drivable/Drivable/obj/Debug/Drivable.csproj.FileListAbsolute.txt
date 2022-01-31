@@ -1,0 +1,7 @@
+C:\Users\stanicek\source\repos\Drivable\Drivable\obj\Debug\Drivable.csprojAssemblyReference.cache
+C:\Users\stanicek\source\repos\Drivable\Drivable\obj\Debug\Drivable.csproj.CoreCompileInputs.cache
+C:\Users\stanicek\source\repos\Drivable\Drivable\bin\Debug\Drivable.exe.config
+C:\Users\stanicek\source\repos\Drivable\Drivable\bin\Debug\Drivable.exe
+C:\Users\stanicek\source\repos\Drivable\Drivable\bin\Debug\Drivable.pdb
+C:\Users\stanicek\source\repos\Drivable\Drivable\obj\Debug\Drivable.exe
+C:\Users\stanicek\source\repos\Drivable\Drivable\obj\Debug\Drivable.pdb

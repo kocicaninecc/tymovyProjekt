@@ -1,0 +1,12 @@
+C:\Users\stanicek\source\repos\EnVoca_stanicek\EnVoca_stanicek\EnVoca_stanicek\obj\Debug\netstandard2.0\EnVoca_stanicek.csprojAssemblyReference.cache
+C:\Users\stanicek\source\repos\EnVoca_stanicek\EnVoca_stanicek\EnVoca_stanicek\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\stanicek\source\repos\EnVoca_stanicek\EnVoca_stanicek\EnVoca_stanicek\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\stanicek\source\repos\EnVoca_stanicek\EnVoca_stanicek\EnVoca_stanicek\obj\Debug\netstandard2.0\EnVoca_stanicek.csproj.CoreCompileInputs.cache
+C:\Users\stanicek\source\repos\EnVoca_stanicek\EnVoca_stanicek\EnVoca_stanicek\obj\Debug\netstandard2.0\EnVoca_stanicek.AssemblyInfoInputs.cache
+C:\Users\stanicek\source\repos\EnVoca_stanicek\EnVoca_stanicek\EnVoca_stanicek\obj\Debug\netstandard2.0\EnVoca_stanicek.AssemblyInfo.cs
+C:\Users\stanicek\source\repos\EnVoca_stanicek\EnVoca_stanicek\EnVoca_stanicek\obj\Debug\netstandard2.0\EnVoca_stanicek.dll
+C:\Users\stanicek\source\repos\EnVoca_stanicek\EnVoca_stanicek\EnVoca_stanicek\obj\Debug\netstandard2.0\EnVoca_stanicek.pdb
+C:\Users\stanicek\source\repos\EnVoca_stanicek\EnVoca_stanicek\EnVoca_stanicek\bin\Debug\netstandard2.0\EnVoca_stanicek.deps.json
+C:\Users\stanicek\source\repos\EnVoca_stanicek\EnVoca_stanicek\EnVoca_stanicek\bin\Debug\netstandard2.0\EnVoca_stanicek.dll
+C:\Users\stanicek\source\repos\EnVoca_stanicek\EnVoca_stanicek\EnVoca_stanicek\bin\Debug\netstandard2.0\EnVoca_stanicek.pdb
+C:\Users\stanicek\source\repos\EnVoca_stanicek\EnVoca_stanicek\EnVoca_stanicek\obj\Debug\netstandard2.0\XamlC.stamp
