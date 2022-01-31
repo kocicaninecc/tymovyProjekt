@@ -1,0 +1,8 @@
+﻿<Application
+    x:Class="EnglishVocabulary_stanicek.UWP.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:EnglishVocabulary_stanicek.UWP"
+    RequestedTheme="Light">
+
+</Application>

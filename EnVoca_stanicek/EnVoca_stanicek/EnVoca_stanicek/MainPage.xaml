@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:EnVoca_stanicek"
+             x:Class="EnVoca_stanicek.MainPage">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Button x:Name="Login"
+                HorizontalOptions="Center"
+                VerticalOptions="Center"
+                Margin="50,150,50,10"
+                WidthRequest="250"
+                Text="TEST"/>
+
+        <Button x:Name="Register"
+                HorizontalOptions="Center"
+                VerticalOptions="Center"
+                WidthRequest="250"
+                Text="SLOVÍČKA"/>
+    </StackLayout>
+
+</ContentPage>
